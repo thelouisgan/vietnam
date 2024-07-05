@@ -6,7 +6,7 @@
         <format id="r1" frameDuration="100/3000s" width="3840" height="1644" colorSpace="5-1-6 (Rec. 601 (PAL))"/>
         <asset id="r2" name="VID20240101140612" uid="0B20E884F531C26A8A62C204F8EE5E9C" start="0s" duration="73753/10000s" hasVideo="1" format="r1" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
             <media-rep kind="original-media" sig="0B20E884F531C26A8A62C204F8EE5E9C" src="file:///Users/louisgan/Movies/Final%20Cut%20Pro.fcpbundle/M3MBP/Original%20Media/VID20240101140612.mp4">
-                <bookmark>Ym9va1QDAAAAAAQQMAAAAHeImQASh6wUsg2B7dAPGQ0zpMHot7nk6NmO1G6ZCmRlUAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAABUAAAABAQAAVklEMjAyNDAxMDExNDA2MTIubXA0AAAAHAAAAAEGAAAQAAAAIAAAADAAAABAAAAAYAAAAHAAAACIAAAACAAAAAQDAAAQPgAAAAAAAAgAAAAEAwAALP4DAAAAAAAIAAAABAMAAFv+AwAAAAAACAAAAAQDAADEJDoAAAAAAAgAAAAEAwAAyiQ6AAAAAAAIAAAABAMAANQkOgAAAAAACAAAAAQDAAC0SBwCAAAAABwAAAABBgAAzAAAANwAAADsAAAA/AAAAAwBAAAcAQAALAEAAAgAAAAABAAAQcYS2gJGkogYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACQgpbnAAAACAAAAAAEAABBxhNCYIAAACQAAAABAQAAQTQyNUJDQTctMUQ5My00MzJDLUJCNEItQzczMkZBRkI1QTJFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAKgAAAAAAAAABRAAADwBAAAAAAAAEBAAAHABAAAAAAAAQBAAAGABAAAAAAAAAiAAADwCAAAAAAAABSAAAKwBAAAAAAAAECAAALwBAAAAAAAAESAAAPABAAAAAAAAEiAAANABAAAAAAAAEyAAAOABAAAAAAAAICAAABwCAAAAAAAAMCAAAEgCAAAAAAAAAcAAAJABAAAAAAAAEcAAACAAAAAAAAAAEsAAAKABAAAAAAAAENAAAAQAAAAAAAAA</bookmark>
+                <bookmark>Ym9va1QDAAAAAAQQMAAAAJmZFftvh3z7JvNrYOQ5kie130oHhLka0bGsfBOyh1BIUAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAABUAAAABAQAAVklEMjAyNDAxMDExNDA2MTIubXA0AAAAHAAAAAEGAAAQAAAAIAAAADAAAABAAAAAYAAAAHAAAACIAAAACAAAAAQDAAAQPgAAAAAAAAgAAAAEAwAALP4DAAAAAAAIAAAABAMAAFv+AwAAAAAACAAAAAQDAADEJDoAAAAAAAgAAAAEAwAAyiQ6AAAAAAAIAAAABAMAANQkOgAAAAAACAAAAAQDAAC0SBwCAAAAABwAAAABBgAAzAAAANwAAADsAAAA/AAAAAwBAAAcAQAALAEAAAgAAAAABAAAQcYS2gJGkogYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACQgpbnAAAACAAAAAAEAABBxhNCYIAAACQAAAABAQAAQTQyNUJDQTctMUQ5My00MzJDLUJCNEItQzczMkZBRkI1QTJFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAKgAAAAAAAAABRAAADwBAAAAAAAAEBAAAHABAAAAAAAAQBAAAGABAAAAAAAAAiAAADwCAAAAAAAABSAAAKwBAAAAAAAAECAAALwBAAAAAAAAESAAAPABAAAAAAAAEiAAANABAAAAAAAAEyAAAOABAAAAAAAAICAAABwCAAAAAAAAMCAAAEgCAAAAAAAAAcAAAJABAAAAAAAAEcAAACAAAAAAAAAAEsAAAKABAAAAAAAAENAAAAQAAAAAAAAA</bookmark>
             </media-rep>
             <metadata>
                 <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
@@ -24,15 +24,16 @@
         </asset>
         <asset id="r3" name="skylight-corals-main-version-28976-01-49" uid="C703EEEF04A52ACF899753BE01EE3FC5" start="0s" duration="4834667/44100s" hasAudio="1" audioSources="1" audioChannels="2" audioRate="44100">
             <media-rep kind="original-media" sig="C703EEEF04A52ACF899753BE01EE3FC5" src="file:///Users/louisgan/Movies/Final%20Cut%20Pro.fcpbundle/M3MBP/Original%20Media/skylight-corals-main-version-28976-01-49.mp3">
-                <bookmark>Ym9va2gDAAAAAAQQMAAAAJPIc5LBf5bCQ8mcjvXrX3X42je45GeuHhnmmU8bI0v3ZAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAACwAAAABAQAAc2t5bGlnaHQtY29yYWxzLW1haW4tdmVyc2lvbi0yODk3Ni0wMS00OS5tcDMcAAAAAQYAABAAAAAgAAAAMAAAAEAAAABgAAAAcAAAAIgAAAAIAAAABAMAABA+AAAAAAAACAAAAAQDAAAs/gMAAAAAAAgAAAAEAwAAW/4DAAAAAAAIAAAABAMAAMQkOgAAAAAACAAAAAQDAADKJDoAAAAAAAgAAAAEAwAA1CQ6AAAAAAAIAAAABAMAAGtrHAIAAAAAHAAAAAEGAADgAAAA8AAAAAABAAAQAQAAIAEAADABAABAAQAACAAAAAAEAABBxhwIBTobshgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJCClucAAAAIAAAAAAQAAEHGE0JggAAAJAAAAAEBAABBNDI1QkNBNy0xRDkzLTQzMkMtQkI0Qi1DNzMyRkFGQjVBMkUYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAAAAAEEAAAvAAAAAAAAAAFEAAAUAEAAAAAAAAQEAAAhAEAAAAAAABAEAAAdAEAAAAAAAACIAAAUAIAAAAAAAAFIAAAwAEAAAAAAAAQIAAA0AEAAAAAAAARIAAABAIAAAAAAAASIAAA5AEAAAAAAAATIAAA9AEAAAAAAAAgIAAAMAIAAAAAAAAwIAAAXAIAAAAAAAABwAAApAEAAAAAAAARwAAAIAAAAAAAAAASwAAAtAEAAAAAAAAQ0AAABAAAAAAAAAA=</bookmark>
+                <bookmark>Ym9va2gDAAAAAAQQMAAAAIf1BYf9WqS0eHErj48RHzxpOSjQpsWS7c9Cew8tgqazZAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAACwAAAABAQAAc2t5bGlnaHQtY29yYWxzLW1haW4tdmVyc2lvbi0yODk3Ni0wMS00OS5tcDMcAAAAAQYAABAAAAAgAAAAMAAAAEAAAABgAAAAcAAAAIgAAAAIAAAABAMAABA+AAAAAAAACAAAAAQDAAAs/gMAAAAAAAgAAAAEAwAAW/4DAAAAAAAIAAAABAMAAMQkOgAAAAAACAAAAAQDAADKJDoAAAAAAAgAAAAEAwAA1CQ6AAAAAAAIAAAABAMAAGtrHAIAAAAAHAAAAAEGAADgAAAA8AAAAAABAAAQAQAAIAEAADABAABAAQAACAAAAAAEAABBxhwIBTobshgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJCClucAAAAIAAAAAAQAAEHGE0JggAAAJAAAAAEBAABBNDI1QkNBNy0xRDkzLTQzMkMtQkI0Qi1DNzMyRkFGQjVBMkUYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAAAAAEEAAAvAAAAAAAAAAFEAAAUAEAAAAAAAAQEAAAhAEAAAAAAABAEAAAdAEAAAAAAAACIAAAUAIAAAAAAAAFIAAAwAEAAAAAAAAQIAAA0AEAAAAAAAARIAAABAIAAAAAAAASIAAA5AEAAAAAAAATIAAA9AEAAAAAAAAgIAAAMAIAAAAAAAAwIAAAXAIAAAAAAAABwAAApAEAAAAAAAARwAAAIAAAAAAAAAASwAAAtAEAAAAAAAAQ0AAABAAAAAAAAAA=</bookmark>
             </media-rep>
             <metadata>
                 <md key="com.apple.proapps.mio.ingestDate" value="2024-07-05 19:30:09 +0800"/>
             </metadata>
         </asset>
-        <asset id="r4" name="VID20240101140834" uid="684997135D6A18E39C8DF923F456D926" start="0s" duration="113393/10000s" hasVideo="1" format="r5" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+        <format id="r4" frameDuration="2991/90000s" width="3840" height="1644" colorSpace="5-1-6 (Rec. 601 (PAL))"/>
+        <asset id="r5" name="VID20240101140834" uid="684997135D6A18E39C8DF923F456D926" start="0s" duration="113393/10000s" hasVideo="1" format="r4" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
             <media-rep kind="original-media" sig="684997135D6A18E39C8DF923F456D926" src="file:///Users/louisgan/Movies/Final%20Cut%20Pro.fcpbundle/M3MBP/Original%20Media/VID20240101140834.mp4">
-                <bookmark>Ym9va1QDAAAAAAQQMAAAAOp0blIQTp+qqLPgZpqBhR/o84Fbn0f96kEWbNAv9us7UAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAABUAAAABAQAAVklEMjAyNDAxMDExNDA4MzQubXA0AAAAHAAAAAEGAAAQAAAAIAAAADAAAABAAAAAYAAAAHAAAACIAAAACAAAAAQDAAAQPgAAAAAAAAgAAAAEAwAALP4DAAAAAAAIAAAABAMAAFv+AwAAAAAACAAAAAQDAADEJDoAAAAAAAgAAAAEAwAAyiQ6AAAAAAAIAAAABAMAANQkOgAAAAAACAAAAAQDAADwaxwCAAAAABwAAAABBgAAzAAAANwAAADsAAAA/AAAAAwBAAAcAQAALAEAAAgAAAAABAAAQcYS2g1O1igYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACQgpbnAAAACAAAAAAEAABBxhNCYIAAACQAAAABAQAAQTQyNUJDQTctMUQ5My00MzJDLUJCNEItQzczMkZBRkI1QTJFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAKgAAAAAAAAABRAAADwBAAAAAAAAEBAAAHABAAAAAAAAQBAAAGABAAAAAAAAAiAAADwCAAAAAAAABSAAAKwBAAAAAAAAECAAALwBAAAAAAAAESAAAPABAAAAAAAAEiAAANABAAAAAAAAEyAAAOABAAAAAAAAICAAABwCAAAAAAAAMCAAAEgCAAAAAAAAAcAAAJABAAAAAAAAEcAAACAAAAAAAAAAEsAAAKABAAAAAAAAENAAAAQAAAAAAAAA</bookmark>
+                <bookmark>Ym9va1QDAAAAAAQQMAAAAIpiLp0QTBx9hvMed7pvbVQn+oEc1Y1U9lsb9zgEfmIaUAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAABUAAAABAQAAVklEMjAyNDAxMDExNDA4MzQubXA0AAAAHAAAAAEGAAAQAAAAIAAAADAAAABAAAAAYAAAAHAAAACIAAAACAAAAAQDAAAQPgAAAAAAAAgAAAAEAwAALP4DAAAAAAAIAAAABAMAAFv+AwAAAAAACAAAAAQDAADEJDoAAAAAAAgAAAAEAwAAyiQ6AAAAAAAIAAAABAMAANQkOgAAAAAACAAAAAQDAADwaxwCAAAAABwAAAABBgAAzAAAANwAAADsAAAA/AAAAAwBAAAcAQAALAEAAAgAAAAABAAAQcYS2g1O1igYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACQgpbnAAAACAAAAAAEAABBxhNCYIAAACQAAAABAQAAQTQyNUJDQTctMUQ5My00MzJDLUJCNEItQzczMkZBRkI1QTJFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAKgAAAAAAAAABRAAADwBAAAAAAAAEBAAAHABAAAAAAAAQBAAAGABAAAAAAAAAiAAADwCAAAAAAAABSAAAKwBAAAAAAAAECAAALwBAAAAAAAAESAAAPABAAAAAAAAEiAAANABAAAAAAAAEyAAAOABAAAAAAAAICAAABwCAAAAAAAAMCAAAEgCAAAAAAAAAcAAAJABAAAAAAAAEcAAACAAAAAAAAAAEsAAAKABAAAAAAAAENAAAAQAAAAAAAAA</bookmark>
             </media-rep>
             <metadata>
                 <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
@@ -48,10 +49,36 @@
                 <md key="com.apple.proapps.mio.ingestDate" value="2024-07-05 19:30:46 +0800"/>
             </metadata>
         </asset>
-        <format id="r5" frameDuration="2991/90000s" width="3840" height="1644" colorSpace="5-1-6 (Rec. 601 (PAL))"/>
-        <asset id="r6" name="VID20240101140848" uid="4614739091F02CC24C7086002A2750EC" start="0s" duration="56693/10000s" hasVideo="1" format="r7" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+        <format id="r6" frameDuration="1001/60000s" width="5312" height="2988" colorSpace="1-1-1 (Rec. 709)"/>
+        <asset id="r7" name="GX011281" uid="80D44FD60F49B7962102884AD5317E3B" start="3007992988/60000s" duration="516516/60000s" hasVideo="1" format="r6" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="80D44FD60F49B7962102884AD5317E3B" src="file:///Users/louisgan/Movies/Final%20Cut%20Pro.fcpbundle/M3MBP/Original%20Media/GX011281%20(fcp1).mp4">
+                <bookmark>Ym9va1ADAAAAAAQQMAAAACMq4vQuex7v8Y/bIf2c+V/9uhZMU+oPwdOYxEBbHsD2TAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAABMAAAABAQAAR1gwMTEyODEgKGZjcDEpLm1wNAAcAAAAAQYAABAAAAAgAAAAMAAAAEAAAABgAAAAcAAAAIgAAAAIAAAABAMAABA+AAAAAAAACAAAAAQDAAAs/gMAAAAAAAgAAAAEAwAAW/4DAAAAAAAIAAAABAMAAMQkOgAAAAAACAAAAAQDAADKJDoAAAAAAAgAAAAEAwAA1CQ6AAAAAAAIAAAABAMAACi0HAIAAAAAHAAAAAEGAADIAAAA2AAAAOgAAAD4AAAACAEAABgBAAAoAQAACAAAAAAEAABBxaFFqn1wpBgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJCClucAAAAIAAAAAAQAAEHGE0JggAAAJAAAAAEBAABBNDI1QkNBNy0xRDkzLTQzMkMtQkI0Qi1DNzMyRkFGQjVBMkUYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAAAAAEEAAApAAAAAAAAAAFEAAAOAEAAAAAAAAQEAAAbAEAAAAAAABAEAAAXAEAAAAAAAACIAAAOAIAAAAAAAAFIAAAqAEAAAAAAAAQIAAAuAEAAAAAAAARIAAA7AEAAAAAAAASIAAAzAEAAAAAAAATIAAA3AEAAAAAAAAgIAAAGAIAAAAAAAAwIAAARAIAAAAAAAABwAAAjAEAAAAAAAARwAAAIAAAAAAAAAASwAAAnAEAAAAAAAAQ0AAABAAAAAAAAAA=</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="HD (1-1-1)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>HEVC</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2024-07-05 20:02:00 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r8" name="y2mate.com - Canoe Paddle Sound Effect" uid="DDD96E7BA9FF8271F9348AF543BF2D65" start="0s" duration="1172480/44100s" hasAudio="1" audioSources="1" audioChannels="2" audioRate="44100">
+            <media-rep kind="original-media" sig="DDD96E7BA9FF8271F9348AF543BF2D65" src="file:///Users/louisgan/Movies/Final%20Cut%20Pro.fcpbundle/M3MBP/Original%20Media/y2mate.com%20-%20Canoe%20Paddle%20Sound%20Effect.mp3">
+                <bookmark>Ym9va2gDAAAAAAQQMAAAABqM8hu7HP+/RX3sDmYY/JhuhfKKzfhtcOe3XSPDoyMdZAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAACoAAAABAQAAeTJtYXRlLmNvbSAtIENhbm9lIFBhZGRsZSBTb3VuZCBFZmZlY3QubXAzAAAcAAAAAQYAABAAAAAgAAAAMAAAAEAAAABgAAAAcAAAAIgAAAAIAAAABAMAABA+AAAAAAAACAAAAAQDAAAs/gMAAAAAAAgAAAAEAwAAW/4DAAAAAAAIAAAABAMAAMQkOgAAAAAACAAAAAQDAADKJDoAAAAAAAgAAAAEAwAA1CQ6AAAAAAAIAAAABAMAAMS8HAIAAAAAHAAAAAEGAADgAAAA8AAAAAABAAAQAQAAIAEAADABAABAAQAACAAAAAAEAABBxhwMt8cUrRgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJCClucAAAAIAAAAAAQAAEHGE0JggAAAJAAAAAEBAABBNDI1QkNBNy0xRDkzLTQzMkMtQkI0Qi1DNzMyRkFGQjVBMkUYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAAAAAEEAAAvAAAAAAAAAAFEAAAUAEAAAAAAAAQEAAAhAEAAAAAAABAEAAAdAEAAAAAAAACIAAAUAIAAAAAAAAFIAAAwAEAAAAAAAAQIAAA0AEAAAAAAAARIAAABAIAAAAAAAASIAAA5AEAAAAAAAATIAAA9AEAAAAAAAAgIAAAMAIAAAAAAAAwIAAAXAIAAAAAAAABwAAApAEAAAAAAAARwAAAIAAAAAAAAAASwAAAtAEAAAAAAAAQ0AAABAAAAAAAAAA=</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.mio.ingestDate" value="2024-07-05 20:07:28 +0800"/>
+            </metadata>
+        </asset>
+        <asset id="r9" name="VID20240101140848" uid="4614739091F02CC24C7086002A2750EC" start="0s" duration="56693/10000s" hasVideo="1" format="r10" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
             <media-rep kind="original-media" sig="4614739091F02CC24C7086002A2750EC" src="file:///Users/louisgan/Movies/Final%20Cut%20Pro.fcpbundle/M3MBP/Original%20Media/VID20240101140848.mp4">
-                <bookmark>Ym9va1QDAAAAAAQQMAAAADTF+x7BmqHLkxo9bHa9wqIrgUWmhQncMfS+JhpPEvukUAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAABUAAAABAQAAVklEMjAyNDAxMDExNDA4NDgubXA0AAAAHAAAAAEGAAAQAAAAIAAAADAAAABAAAAAYAAAAHAAAACIAAAACAAAAAQDAAAQPgAAAAAAAAgAAAAEAwAALP4DAAAAAAAIAAAABAMAAFv+AwAAAAAACAAAAAQDAADEJDoAAAAAAAgAAAAEAwAAyiQ6AAAAAAAIAAAABAMAANQkOgAAAAAACAAAAAQDAAAQbRwCAAAAABwAAAABBgAAzAAAANwAAADsAAAA/AAAAAwBAAAcAQAALAEAAAgAAAAABAAAQcYS2gpU0ssYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACQgpbnAAAACAAAAAAEAABBxhNCYIAAACQAAAABAQAAQTQyNUJDQTctMUQ5My00MzJDLUJCNEItQzczMkZBRkI1QTJFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAKgAAAAAAAAABRAAADwBAAAAAAAAEBAAAHABAAAAAAAAQBAAAGABAAAAAAAAAiAAADwCAAAAAAAABSAAAKwBAAAAAAAAECAAALwBAAAAAAAAESAAAPABAAAAAAAAEiAAANABAAAAAAAAEyAAAOABAAAAAAAAICAAABwCAAAAAAAAMCAAAEgCAAAAAAAAAcAAAJABAAAAAAAAEcAAACAAAAAAAAAAEsAAAKABAAAAAAAAENAAAAQAAAAAAAAA</bookmark>
+                <bookmark>Ym9va1QDAAAAAAQQMAAAAPZVgaeCH9OzWH+OrScAILMfVbtNoB5JFu4+HA7j9RPlUAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAABUAAAABAQAAVklEMjAyNDAxMDExNDA4NDgubXA0AAAAHAAAAAEGAAAQAAAAIAAAADAAAABAAAAAYAAAAHAAAACIAAAACAAAAAQDAAAQPgAAAAAAAAgAAAAEAwAALP4DAAAAAAAIAAAABAMAAFv+AwAAAAAACAAAAAQDAADEJDoAAAAAAAgAAAAEAwAAyiQ6AAAAAAAIAAAABAMAANQkOgAAAAAACAAAAAQDAAAQbRwCAAAAABwAAAABBgAAzAAAANwAAADsAAAA/AAAAAwBAAAcAQAALAEAAAgAAAAABAAAQcYS2gpU0ssYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACQgpbnAAAACAAAAAAEAABBxhNCYIAAACQAAAABAQAAQTQyNUJDQTctMUQ5My00MzJDLUJCNEItQzczMkZBRkI1QTJFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAKgAAAAAAAAABRAAADwBAAAAAAAAEBAAAHABAAAAAAAAQBAAAGABAAAAAAAAAiAAADwCAAAAAAAABSAAAKwBAAAAAAAAECAAALwBAAAAAAAAESAAAPABAAAAAAAAEiAAANABAAAAAAAAEyAAAOABAAAAAAAAICAAABwCAAAAAAAAMCAAAEgCAAAAAAAAAcAAAJABAAAAAAAAEcAAACAAAAAAAAAAEsAAAKABAAAAAAAAENAAAAQAAAAAAAAA</bookmark>
             </media-rep>
             <metadata>
                 <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
@@ -67,10 +94,10 @@
                 <md key="com.apple.proapps.mio.ingestDate" value="2024-07-05 19:32:06 +0800"/>
             </metadata>
         </asset>
-        <format id="r7" frameDuration="2999/90000s" width="3840" height="1644" colorSpace="5-1-6 (Rec. 601 (PAL))"/>
-        <asset id="r8" name="VID20240101140626" uid="5AEE0D04BEFBF561EF12CF71005FE20E" start="0s" duration="56226/10000s" hasVideo="1" format="r7" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+        <format id="r10" frameDuration="2999/90000s" width="3840" height="1644" colorSpace="5-1-6 (Rec. 601 (PAL))"/>
+        <asset id="r11" name="VID20240101140626" uid="5AEE0D04BEFBF561EF12CF71005FE20E" start="0s" duration="56226/10000s" hasVideo="1" format="r10" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
             <media-rep kind="original-media" sig="5AEE0D04BEFBF561EF12CF71005FE20E" src="file:///Users/louisgan/Movies/Final%20Cut%20Pro.fcpbundle/M3MBP/Original%20Media/VID20240101140626.mp4">
-                <bookmark>Ym9va1QDAAAAAAQQMAAAAIhrlGOULNuk9eLGGTxsUxzZsmHrKRep2Jvz5UTchPy1UAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAABUAAAABAQAAVklEMjAyNDAxMDExNDA2MjYubXA0AAAAHAAAAAEGAAAQAAAAIAAAADAAAABAAAAAYAAAAHAAAACIAAAACAAAAAQDAAAQPgAAAAAAAAgAAAAEAwAALP4DAAAAAAAIAAAABAMAAFv+AwAAAAAACAAAAAQDAADEJDoAAAAAAAgAAAAEAwAAyiQ6AAAAAAAIAAAABAMAANQkOgAAAAAACAAAAAQDAACObRwCAAAAABwAAAABBgAAzAAAANwAAADsAAAA/AAAAAwBAAAcAQAALAEAAAgAAAAABAAAQcYS2f9l/9UYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACQgpbnAAAACAAAAAAEAABBxhNCYIAAACQAAAABAQAAQTQyNUJDQTctMUQ5My00MzJDLUJCNEItQzczMkZBRkI1QTJFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAKgAAAAAAAAABRAAADwBAAAAAAAAEBAAAHABAAAAAAAAQBAAAGABAAAAAAAAAiAAADwCAAAAAAAABSAAAKwBAAAAAAAAECAAALwBAAAAAAAAESAAAPABAAAAAAAAEiAAANABAAAAAAAAEyAAAOABAAAAAAAAICAAABwCAAAAAAAAMCAAAEgCAAAAAAAAAcAAAJABAAAAAAAAEcAAACAAAAAAAAAAEsAAAKABAAAAAAAAENAAAAQAAAAAAAAA</bookmark>
+                <bookmark>Ym9va1QDAAAAAAQQMAAAAKTTEvj132SutdZjjLsmN3Y8ydJx/K5YwsmmwpcO1ScLUAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAABUAAAABAQAAVklEMjAyNDAxMDExNDA2MjYubXA0AAAAHAAAAAEGAAAQAAAAIAAAADAAAABAAAAAYAAAAHAAAACIAAAACAAAAAQDAAAQPgAAAAAAAAgAAAAEAwAALP4DAAAAAAAIAAAABAMAAFv+AwAAAAAACAAAAAQDAADEJDoAAAAAAAgAAAAEAwAAyiQ6AAAAAAAIAAAABAMAANQkOgAAAAAACAAAAAQDAACObRwCAAAAABwAAAABBgAAzAAAANwAAADsAAAA/AAAAAwBAAAcAQAALAEAAAgAAAAABAAAQcYS2f9l/9UYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACQgpbnAAAACAAAAAAEAABBxhNCYIAAACQAAAABAQAAQTQyNUJDQTctMUQ5My00MzJDLUJCNEItQzczMkZBRkI1QTJFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAKgAAAAAAAAABRAAADwBAAAAAAAAEBAAAHABAAAAAAAAQBAAAGABAAAAAAAAAiAAADwCAAAAAAAABSAAAKwBAAAAAAAAECAAALwBAAAAAAAAESAAAPABAAAAAAAAEiAAANABAAAAAAAAEyAAAOABAAAAAAAAICAAABwCAAAAAAAAMCAAAEgCAAAAAAAAAcAAAJABAAAAAAAAEcAAACAAAAAAAAAAEsAAAKABAAAAAAAAENAAAAQAAAAAAAAA</bookmark>
             </media-rep>
             <metadata>
                 <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
@@ -86,116 +113,72 @@
                 <md key="com.apple.proapps.mio.ingestDate" value="2024-07-05 19:33:44 +0800"/>
             </metadata>
         </asset>
-        <format id="r9" frameDuration="1001/60000s" width="5312" height="2988" colorSpace="1-1-1 (Rec. 709)"/>
-        <asset id="r10" uid="4DD4EE468A2B8BC00F9ED3F9D99F005C"/>
-        <asset id="r11" uid="F43C7A3ADBF44E76F8A736C4485C11A1"/>
-        <asset id="r12" uid="80D44FD60F49B7962102884AD5317E3B"/>
-        <asset id="r13" uid="878F4823326EE2FD75C3B48F815F7E66"/>
-        <asset id="r14" uid="8E19548F0C1818E3C65FEEAE492B77DF"/>
-        <format id="r15" frameDuration="1001/30000s" width="5312" height="2988" colorSpace="1-1-1 (Rec. 709)"/>
-        <asset id="r16" uid="245309594039844D6665FB182AED1324"/>
-        <asset id="r17" uid="C6A90D2249169AB3F600E79D036974FD"/>
-        <asset id="r18" uid="3D3B7DA1F8B4A1158395297EA74E99F4"/>
-        <asset id="r19" uid="BBDC1F521A0DE8C88632DCEDAB4CE1E2"/>
-        <asset id="r20" uid="839DC18A88A15A0CB0F9F85CBFB8D06C"/>
-        <asset id="r21" uid="D400B8B0E4475415E7823FA915DD52B0"/>
-        <asset id="r22" uid="251D52FB9FCDF5B59B54F1021265D9C7"/>
+        <asset id="r12" name="GX011269" uid="A52A9E7A6AFF7A9B8598321B6FAC94CE" start="1161926766/24000s" duration="491491/24000s" hasVideo="1" format="r13" hasAudio="1" videoSources="1" audioSources="1" audioChannels="2" audioRate="48000">
+            <media-rep kind="original-media" sig="A52A9E7A6AFF7A9B8598321B6FAC94CE" src="file:///Users/louisgan/Movies/Final%20Cut%20Pro.fcpbundle/M3MBP/Original%20Media/GX011269.mp4">
+                <bookmark>Ym9va0gDAAAAAAQQMAAAAD3IyvTxg3hNtgB5Nf0d6AgCAQN2t2LgFi8dm3ntXSDYRAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGxvdWlzZ2FuBgAAAAEBAABNb3ZpZXMAABcAAAABAQAARmluYWwgQ3V0IFByby5mY3BidW5kbGUABQAAAAEBAABNM01CUAAAAA4AAAABAQAAT3JpZ2luYWwgTWVkaWEAAAwAAAABAQAAR1gwMTEyNjkubXA0HAAAAAEGAAAQAAAAIAAAADAAAABAAAAAYAAAAHAAAACIAAAACAAAAAQDAAAQPgAAAAAAAAgAAAAEAwAALP4DAAAAAAAIAAAABAMAAFv+AwAAAAAACAAAAAQDAADEJDoAAAAAAAgAAAAEAwAAyiQ6AAAAAAAIAAAABAMAANQkOgAAAAAACAAAAAQDAAAx7BwCAAAAABwAAAABBgAAwAAAANAAAADgAAAA8AAAAAABAAAQAQAAIAEAAAgAAAAABAAAQcWhQk59cKQYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACQgpbnAAAACAAAAAAEAABBxhNCYIAAACQAAAABAQAAQTQyNUJDQTctMUQ5My00MzJDLUJCNEItQzczMkZBRkI1QTJFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAJwAAAAAAAAABRAAADABAAAAAAAAEBAAAGQBAAAAAAAAQBAAAFQBAAAAAAAAAiAAADACAAAAAAAABSAAAKABAAAAAAAAECAAALABAAAAAAAAESAAAOQBAAAAAAAAEiAAAMQBAAAAAAAAEyAAANQBAAAAAAAAICAAABACAAAAAAAAMCAAADwCAAAAAAAAAcAAAIQBAAAAAAAAEcAAACAAAAAAAAAAEsAAAJQBAAAAAAAAENAAAAQAAAAAAAAA</bookmark>
+            </media-rep>
+            <metadata>
+                <md key="com.apple.proapps.studio.rawToLogConversion" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemProfileName" value="HD (1-1-1)"/>
+                <md key="com.apple.proapps.studio.cameraISO" value="0"/>
+                <md key="com.apple.proapps.studio.cameraColorTemperature" value="0"/>
+                <md key="com.apple.proapps.spotlight.kMDItemCodecs">
+                    <array>
+                        <string>HEVC</string>
+                        <string>MPEG-4 AAC</string>
+                    </array>
+                </md>
+                <md key="com.apple.proapps.mio.ingestDate" value="2024-07-05 22:02:57 +0800"/>
+            </metadata>
+        </asset>
+        <format id="r13" name="FFVideoFormat3840x2160p2398" frameDuration="1001/24000s" width="3840" height="2160" colorSpace="1-1-1 (Rec. 709)"/>
     </resources>
     <library location="file:///Users/louisgan/Movies/Final%20Cut%20Pro.fcpbundle/">
         <event name="M3MBP" uid="8300D7AF-CA2A-47DC-B18A-5FA2C9E1BE28">
-            <project name="Vietnam" uid="CC69BC96-4D72-4A67-8538-5CBEE0A17D04" modDate="2024-07-05 7:35:38 PM +0800">
-                <sequence format="r1" duration="14253000/90000s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+            <project name="Vietnam" uid="CC69BC96-4D72-4A67-8538-5CBEE0A17D04" modDate="2024-07-05 10:03:14 PM +0800">
+                <sequence format="r1" duration="328800/3000s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
                     <spine>
-                        <asset-clip ref="r2" offset="0s" name="VID20240101140612" start="7900/3000s" duration="426000/90000s" tcFormat="NDF" audioRole="dialogue">
-                            <adjust-volume amount="12dB"/>
-                            <asset-clip ref="r3" lane="-1" offset="79/30s" name="skylight-corals-main-version-28976-01-49" duration="328800/3000s" audioRole="dialogue"/>
+                        <asset-clip ref="r2" offset="0s" name="VID20240101140612" start="7900/3000s" duration="261000/90000s" tcFormat="NDF" audioRole="dialogue">
+                            <adjust-volume amount="10dB"/>
+                            <asset-clip ref="r3" lane="-1" offset="79/30s" name="skylight-corals-main-version-28976-01-49" duration="328800/3000s" audioRole="dialogue">
+                                <adjust-volume amount="-2dB"/>
+                            </asset-clip>
                         </asset-clip>
-                        <asset-clip ref="r4" offset="426000/90000s" name="VID20240101140834" start="615000/90000s" duration="402000/90000s" format="r5" tcFormat="NDF" audioRole="dialogue">
+                        <clip offset="261000/90000s" name="VID20240101140834" start="615000/90000s" duration="273000/90000s" format="r4" tcFormat="NDF">
                             <conform-rate scaleEnabled="0"/>
                             <adjust-transform position="-8.51284 -3.89209" scale="1.08764 1.08764"/>
-                            <adjust-volume amount="12dB"/>
-                        </asset-clip>
-                        <asset-clip ref="r6" offset="828000/90000s" name="VID20240101140848" start="300/3000s" duration="330000/90000s" format="r7" tcFormat="NDF" audioRole="dialogue">
+                            <video ref="r5" offset="0s" duration="1019931/90000s"/>
+                            <clip lane="-3" offset="4595406/720000s" name="VID20240101140834" start="4595406/720000s" duration="2806174/720000s" tcFormat="NDF">
+                                <adjust-transform position="-8.51284 -3.89209" scale="1.08764 1.08764"/>
+                                <adjust-volume amount="12dB">
+                                    <param name="amount">
+                                        <fadeIn type="easeIn" duration="253824/720000s"/>
+                                    </param>
+                                </adjust-volume>
+                                <gap name="Gap" offset="0s" duration="1019931/90000s">
+                                    <audio ref="r5" lane="-1" offset="0s" duration="8164296/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
+                                </gap>
+                            </clip>
+                        </clip>
+                        <clip offset="534000/90000s" name="GX011281" start="1504021519/30000s" duration="261000/90000s" format="r6" tcFormat="NDF">
+                            <conform-rate srcFrameRate="59.94"/>
+                            <adjust-transform position="0 -3.7846" scale="1.35 1.35"/>
+                            <video ref="r7" offset="3007992988/60000s" start="3007992988/60000s" duration="516516/60000s"/>
+                            <asset-clip ref="r8" lane="-2" offset="1504021519/30000s" name="y2mate.com - Canoe Paddle Sound Effect" duration="2390721/720000s" format="r1" audioRole="dialogue"/>
+                        </clip>
+                        <asset-clip ref="r9" offset="795000/90000s" name="VID20240101140848" start="300/3000s" duration="330000/90000s" format="r10" tcFormat="NDF" audioRole="dialogue">
                             <conform-rate scaleEnabled="0"/>
                             <adjust-transform position="-7.39242 -1.51473" scale="1.08 1.08"/>
                             <adjust-volume amount="12dB"/>
                         </asset-clip>
-                        <asset-clip ref="r8" offset="1158000/90000s" name="VID20240101140626" start="4900/3000s" duration="8800/3000s" format="r7" tcFormat="NDF" audioRole="dialogue">
+                        <asset-clip ref="r11" offset="1125000/90000s" name="VID20240101140626" start="4900/3000s" duration="8800/3000s" format="r10" tcFormat="NDF" audioRole="dialogue">
                             <conform-rate scaleEnabled="0"/>
                             <adjust-volume amount="1dB"/>
                         </asset-clip>
-                        <clip offset="1422000/90000s" name="GX011279" start="1499759261/30000s" duration="416/30s" format="r9" tcFormat="NDF">
-                            <conform-rate srcFrameRate="59.94"/>
-                            <video ref="r10" offset="2999518522/60000s" start="2999518522/60000s" duration="832832/60000s">
-                                <audio ref="r10" lane="-1" offset="35994222264/720000s" start="35994222264/720000s" duration="9993984/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
-                        <clip offset="2670000/90000s" name="GX011280" start="3000999001/60000s" duration="15100/3000s" format="r9" tcFormat="NDF">
-                            <conform-rate srcFrameRate="59.94"/>
-                            <video ref="r11" offset="3000999001/60000s" start="3000999001/60000s" duration="303303/60000s">
-                                <audio ref="r11" lane="-1" offset="36011988012/720000s" start="36011988012/720000s" duration="3639636/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
-                        <clip offset="3123000/90000s" name="GX011281" start="751998247/15000s" duration="129/15s" format="r9" tcFormat="NDF">
-                            <conform-rate srcFrameRate="59.94"/>
-                            <video ref="r12" offset="3007992988/60000s" start="3007992988/60000s" duration="516516/60000s">
-                                <audio ref="r12" lane="-1" offset="36095915856/720000s" start="36095915856/720000s" duration="6198192/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
-                        <clip offset="3897000/90000s" name="GX011283" start="75272197/1500s" duration="737/30s" format="r9" tcFormat="NDF">
-                            <conform-rate srcFrameRate="59.94"/>
-                            <video ref="r13" offset="3010887880/60000s" start="3010887880/60000s" duration="1475474/60000s">
-                                <audio ref="r13" lane="-1" offset="36130654560/720000s" start="36130654560/720000s" duration="17705688/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
-                        <clip offset="6108000/90000s" name="GX011284" start="3016544531/60000s" duration="266/60s" format="r9" tcFormat="NDF">
-                            <conform-rate srcFrameRate="59.94"/>
-                            <video ref="r14" offset="3016544531/60000s" start="3016544531/60000s" duration="266266/60000s">
-                                <audio ref="r14" lane="-1" offset="36198534372/720000s" start="36198534372/720000s" duration="3195192/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
-                        <clip offset="6507000/90000s" name="GX011285" start="301754453/6000s" duration="477/30s" format="r15" tcFormat="NDF">
-                            <conform-rate srcFrameRate="29.97"/>
-                            <video ref="r16" offset="1508772265/30000s" start="1508772265/30000s" duration="477477/30000s">
-                                <audio ref="r16" lane="-1" offset="36210534360/720000s" start="36210534360/720000s" duration="11459448/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
-                        <clip offset="7938000/90000s" name="GX011286" start="754793039/15000s" duration="747/30s" format="r15" tcFormat="NDF">
-                            <conform-rate srcFrameRate="29.97"/>
-                            <video ref="r17" offset="1509586078/30000s" start="1509586078/30000s" duration="747747/30000s">
-                                <audio ref="r17" lane="-1" offset="36230065872/720000s" start="36230065872/720000s" duration="17945928/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
-                        <clip offset="10179000/90000s" name="GX011287" start="504252749/10000s" duration="28/10s" format="r15" tcFormat="NDF">
-                            <conform-rate srcFrameRate="29.97"/>
-                            <video ref="r18" offset="1512758247/30000s" start="1512758247/30000s" duration="84084/30000s">
-                                <audio ref="r18" lane="-1" offset="36306197928/720000s" start="36306197928/720000s" duration="2018016/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
-                        <clip offset="10431000/90000s" name="GX011288" start="1513474963/30000s" duration="433/30s" format="r15" tcFormat="NDF">
-                            <conform-rate srcFrameRate="29.97"/>
-                            <video ref="r19" offset="1513474963/30000s" start="1513474963/30000s" duration="433433/30000s">
-                                <audio ref="r19" lane="-1" offset="36323399112/720000s" start="36323399112/720000s" duration="10402392/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
-                        <clip offset="11730000/90000s" name="GX011289" start="12649637/250s" duration="15s" format="r15" tcFormat="NDF">
-                            <conform-rate srcFrameRate="29.97"/>
-                            <video ref="r20" offset="1517956440/30000s" start="1517956440/30000s" duration="450450/30000s">
-                                <audio ref="r20" lane="-1" offset="36430954560/720000s" start="36430954560/720000s" duration="10810800/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
-                        <clip offset="13080000/90000s" name="GX011290" start="759902143/15000s" duration="78/15s" format="r15" tcFormat="NDF">
-                            <conform-rate srcFrameRate="29.97"/>
-                            <video ref="r21" offset="1519804286/30000s" start="1519804286/30000s" duration="156156/30000s">
-                                <audio ref="r21" lane="-1" offset="36475302864/720000s" start="36475302864/720000s" duration="3747744/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
-                        <clip offset="13548000/90000s" name="GX011291" start="1530225697/30000s" duration="235/30s" format="r15" tcFormat="NDF">
-                            <conform-rate srcFrameRate="29.97"/>
-                            <video ref="r22" offset="1530225697/30000s" start="1530225697/30000s" duration="235235/30000s">
-                                <audio ref="r22" lane="-1" offset="36725416728/720000s" start="36725416728/720000s" duration="5645640/720000s" role="dialogue.dialogue-1" srcCh="1, 2"/>
-                            </video>
-                        </clip>
+                        <asset-clip ref="r12" offset="1389000/90000s" name="GX011269" start="145240846/3000s" duration="61400/3000s" format="r13" tcFormat="NDF" audioRole="dialogue">
+                            <conform-rate scaleEnabled="0" srcFrameRate="23.98"/>
+                            <adjust-transform scale="1.34 1.34"/>
+                        </asset-clip>
                     </spine>
                 </sequence>
             </project>
